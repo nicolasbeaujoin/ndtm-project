@@ -46,7 +46,7 @@ See the report for the full analysis.
 |---|---|
 | `project_ndtm.ipynb` | Main notebook: implementations of NDTM and DPS, and all experiments (cell outputs cleared) |
 | `07_Beaujoin_Bec.pdf` | Project report |
-| `GuidanceDiffModels.pdf` | Course reference material on guidance in diffusion models |
+| `GuidanceDiffModels.pdf` | Paper *Variational Control for Guidance in Diffusion Models* (Pandey et al., 2025) |
 | `formulas_reference.pdf` | Reference sheet of the diffusion formulas used (DDPM, DDIM, DPS, NDTM) |
 
 ## References
